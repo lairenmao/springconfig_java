@@ -1,6 +1,6 @@
 .idea
-.mvn
-.iml
+*.mvn
+*.iml
 mvnw
 mvnw.cmd
 logs/
